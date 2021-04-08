@@ -1,5 +1,5 @@
 var name = "susan"
-var height = "74"
+var height = "70"
 var index = require("./index.js")
 
 
