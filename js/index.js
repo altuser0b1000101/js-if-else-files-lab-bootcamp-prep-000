@@ -1,6 +1,5 @@
 var name = "susan"
 var height = "70"
-var index = require("./index.js")
 
 
 
