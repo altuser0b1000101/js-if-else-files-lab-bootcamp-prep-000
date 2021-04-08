@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "susan"
 var height = "74"
 var index = require("./index.js")
 
